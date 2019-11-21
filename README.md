@@ -1,6 +1,6 @@
 # 🐭Talk At Ya
 
-### Talk At Ya is a Chat Application built using NodeJS and Socket.io
+### A Chat Application built using NodeJS and Socket.io
 
 #### USAGE:
   1. Run `npm install` to install dependencies
