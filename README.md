@@ -1,6 +1,6 @@
 # 🐭Talk At Ya
 
-### A Chat Application built using NodeJS, Express and Socket.io
+### A Chat Application built using NodeJS, Express and Socket.io: https://talk-at-ya.herokuapp.com/
 
 #### USAGE:
   1. Run `npm install` to install dependencies
